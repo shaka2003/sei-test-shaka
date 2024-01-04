@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">seitest</string>
+    <string name="email_error">Enter the correct email</string>
+    <string name="password_error">The password must not be less than 8 characters.</string>
+    <string name="email_address">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">LOGIN</string>
+    <string name="login_result">Login Result</string>
+    <string name="username_result">"Username: "</string>
+    <string name="name_result">"Name: "</string>
+    <string name="email_result">"Email: "</string>
+    <string name="list_user">List User</string>
+    <string name="add_user">ADD USER</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="next">NEXT</string>
+    <string name="tes_seleksi">TES SELEKSI</string>
+    <string name="go_to_list_user">Go To List User</string>
+    <string name="close">Close</string>
+</resources>
